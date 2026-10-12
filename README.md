@@ -2,6 +2,8 @@
 
 > An internal matchmaker intelligence dashboard and algorithmic pairing platform built for **The Date Crew (TDC)** to empower executive matchmakers in managing high-net-worth client lifecycles, evaluating deep biodata, scoring compatibility across gender-specific dimensions, and dispatching AI-personalized introductions.
 
+**🚀 Live Hosted Demo**: [https://tdc-matchmaker-dashboard-psi.vercel.app/](https://tdc-matchmaker-dashboard-psi.vercel.app/)
+
 ![TDC Matchmaker Platform](https://images.unsplash.com/photo-1517841905240-472988babdf9?w=1200&auto=format&fit=crop&q=80)
 
 ---
@@ -139,5 +141,6 @@ This application is ready for 1-click deployment on **Vercel**:
 - **Candidate**: Vansh Jain
 - **Role**: Full Stack Developer Internship – Assignment
 - **Company**: The Date Crew (TDC)
+- **Live Hosted Application**: [https://tdc-matchmaker-dashboard-psi.vercel.app/](https://tdc-matchmaker-dashboard-psi.vercel.app/)
 - **Repository**: [https://github.com/Vansh7818/tdc-matchmaker-dashboard](https://github.com/Vansh7818/tdc-matchmaker-dashboard)
 - **Submission Email**: `tech@thedatecrew.com`
