@@ -103,7 +103,7 @@ Total Score (100 pts) =
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/YOUR_USERNAME/tdc-matchmaker-dashboard.git
+git clone https://github.com/Vansh7818/tdc-matchmaker-dashboard.git
 cd tdc-matchmaker-dashboard
 
 # 2. Install dependencies
@@ -128,19 +128,16 @@ npm run start
 ## ☁️ Deployment Instructions (Vercel)
 
 This application is ready for 1-click deployment on **Vercel**:
-1. Push this repository to your GitHub account:
-   ```bash
-   git remote add origin https://github.com/<your-username>/tdc-matchmaker-dashboard.git
-   git push -u origin main
-   ```
-2. Go to [vercel.com](https://vercel.com) and click **"Add New Project"**.
-3. Select your GitHub repository and click **Deploy**.
-4. *(Optional)* Add `NEXT_PUBLIC_OPENAI_API_KEY` in Vercel Environment Variables.
+1. Go to [vercel.com/new](https://vercel.com/new) and click **"Import"** on `Vansh7818/tdc-matchmaker-dashboard`.
+2. Click **Deploy**.
+3. *(Optional)* Add `NEXT_PUBLIC_OPENAI_API_KEY` in Vercel Environment Variables.
 
 ---
 
 ## 👥 Candidate Information
 
+- **Candidate**: Vansh Jain
 - **Role**: Full Stack Developer Internship – Assignment
 - **Company**: The Date Crew (TDC)
+- **Repository**: [https://github.com/Vansh7818/tdc-matchmaker-dashboard](https://github.com/Vansh7818/tdc-matchmaker-dashboard)
 - **Submission Email**: `tech@thedatecrew.com`
